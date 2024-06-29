@@ -13,7 +13,8 @@
 			<IconBike width={80} height={80}></IconBike>
 		</div>
 
-			<h2 class="ml-8 h2 grow"> Cycling Advocates of Cuyahoga Falls</h2>		
+			<h2 class="max-sm:hidden ml-8 h2 grow"> Cycling Advocates of Cuyahoga Falls</h2>		
+			<h2 class="max-sm:block hidden ml-4 h4 grow"> Cycling Advocates of <br /> Cuyahoga Falls</h2>		
 	</div>
 
 	<!-- <div class="flex justify-center items-center px-8 max-md:gap-x-12 gap-x-20">
